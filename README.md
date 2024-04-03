@@ -10,4 +10,4 @@
 <img src="/image/YouWin.png">
 <br>
 <h2>You Lose!</h2>
-<img src="/image/YouLose.png>
+<img src="/image/YouLose.png">
